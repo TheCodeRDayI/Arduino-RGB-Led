@@ -8,9 +8,9 @@
 # RGB-Led
 if you want to change the outputs all you have to do is:
 ```ino
-#define red 5
-#define green 6
-#define blue 7
+#define red 9
+#define green 10
+#define blue 11
 ```
 
 # Images
